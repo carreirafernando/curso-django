@@ -1,5 +1,5 @@
-# curso-django
+# Curso-Django
 
 Tópicos aprendidos:
 
-Adcionando .gitignore
+- Adcionando .gitignore
