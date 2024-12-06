@@ -15,3 +15,7 @@ Tópicos aprendidos:
 - Colocar o nome do app no arquivo _settings.py_;
   
   ![](imagens/configuracao-settings.png)
+
+- Criado pasta _base_templates_ e adicionado o caminha no arquivo _settings.py_;
+
+  ![](imagens/configuracao-base_templates.png)
