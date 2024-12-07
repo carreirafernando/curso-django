@@ -19,3 +19,13 @@ Tópicos aprendidos:
 - Criado pasta _base_templates_ e adicionado o caminha no arquivo _settings.py_;
 
   ![](imagens/configuracao-base_templates.png)
+
+- Separando o _Head_ da página e incluindo na _index.html_;
+  > _{% include "recipes/partials/head.html" %}_
+
+  ![](imagens/incluindo-head.png)
+
+  -Incluindo o contaúdo do _index.html_ com _include_;
+   > _{% include "endereço" %}_
+
+   ![](imagens/incluindo-paginas.png)
