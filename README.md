@@ -25,7 +25,16 @@ Tópicos aprendidos:
 
   ![](imagens/incluindo-head.png)
 
-  -Incluindo o contaúdo do _index.html_ com _include_;
+- Incluindo o contaúdo do _index.html_ com _include_;
    > _{% include "endereço" %}_
 
-   ![](imagens/incluindo-paginas.png)
+  ![](imagens/incluindo-paginas.png)
+
+- Criado models.py;
+
+  ![](imagens/models.png)
+
+- Aplicando migrações;
+  > _python manage.py migrate_
+  > _python manage.py makemigrations_
+  > _python manage.py migrate_
