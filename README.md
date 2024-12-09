@@ -35,6 +35,15 @@ Tópicos aprendidos:
   ![](imagens/models.png)
 
 - Aplicando migrações;
-  > _python manage.py migrate_
-  > _python manage.py makemigrations_
-  > _python manage.py migrate_
+  > _python manage.py migrate_ <br>
+  > _python manage.py makemigrations_ <br>
+  > _python manage.py migrate_ <br>
+
+- Criar Super usuário;
+  > _python manage.py createsuperuser_
+
+  ![](imagens/admin.png)
+
+  ![](imagens/criar-usuario.png)
+
+  
